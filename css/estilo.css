@@ -1,0 +1,54 @@
+*{margin: 0; padding: 0;}
+
+html {
+    
+    background-color: rgb(255, 255, 255); 
+}
+
+
+
+header {
+    height: 30%;
+    background-color: rgb(85, 228, 69);
+}
+
+
+main {
+    height: 70%;
+    background-color: rgb(46, 0, 68);
+    
+
+}
+
+
+article {
+    
+    background-color: rgb(10, 2, 158);
+    border-radius: 1em;
+    margin: 0.5em; padding: 0.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10pt;
+}
+
+
+
+footer {
+    height: 100px;
+    text-align: center;
+    font-size: 17pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(179, 89, 89);
+    
+}
+
+#left {
+    width: 33.7%; height: 10%;
+    background-color: blue;
+    float: left;
+}
+
+#right {
+    width: 33%; height: 10%;
+    background-color: chartreuse;
+    float: right;
+}
